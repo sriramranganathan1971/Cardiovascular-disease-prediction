@@ -1,0 +1,32 @@
+2025-06-09 13:38:53,154 - CardiovascularPredictionApp - INFO - TensorFlow is available and imported successfully
+2025-06-09 13:38:53,196 - CardiovascularPredictionApp - INFO - Base directory: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main
+2025-06-09 13:38:53,196 - CardiovascularPredictionApp - INFO - Tabular model path: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main\Saved_model\tb_mdl.h5
+2025-06-09 13:38:53,196 - CardiovascularPredictionApp - INFO - Image model path: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main\Saved_model\img_mdl.h5
+2025-06-09 13:38:53,267 - CardiovascularPredictionApp - INFO - Loading tabular model from C:\Cardiovascular-disease-prediction-using-deep-leaerning-main\Saved_model\tb_mdl.h5
+2025-06-09 13:38:53,640 - CardiovascularPredictionApp - INFO - Tabular model loaded successfully
+2025-06-09 13:43:26,156 - CardiovascularPredictionApp - INFO - TensorFlow is available and imported successfully
+2025-06-09 13:43:26,157 - CardiovascularPredictionApp - INFO - Base directory: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main
+2025-06-09 13:43:26,158 - CardiovascularPredictionApp - INFO - Tabular model path: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main\Saved_model\tb_mdl.h5
+2025-06-09 13:43:26,158 - CardiovascularPredictionApp - INFO - Image model path: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main\Saved_model\img_mdl.h5
+2025-06-14 08:39:18,328 - CardiovascularPredictionApp - INFO - TensorFlow is available and imported successfully
+2025-06-14 08:39:18,507 - CardiovascularPredictionApp - INFO - Base directory: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main
+2025-06-14 08:39:18,508 - CardiovascularPredictionApp - INFO - Tabular model path: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main\Saved_model\tb_mdl.h5
+2025-06-14 08:39:18,508 - CardiovascularPredictionApp - INFO - Image model path: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main\Saved_model\img_mdl.h5
+2025-06-14 08:39:18,534 - CardiovascularPredictionApp - INFO - Loading tabular model from C:\Cardiovascular-disease-prediction-using-deep-leaerning-main\Saved_model\tb_mdl.h5
+2025-06-14 08:39:18,819 - CardiovascularPredictionApp - INFO - Tabular model loaded successfully
+2025-06-14 08:40:25,763 - CardiovascularPredictionApp - INFO - TensorFlow is available and imported successfully
+2025-06-14 08:40:25,764 - CardiovascularPredictionApp - INFO - Base directory: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main
+2025-06-14 08:40:25,765 - CardiovascularPredictionApp - INFO - Tabular model path: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main\Saved_model\tb_mdl.h5
+2025-06-14 08:40:25,765 - CardiovascularPredictionApp - INFO - Image model path: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main\Saved_model\img_mdl.h5
+2025-06-14 08:40:25,773 - CardiovascularPredictionApp - INFO - Loading image model from C:\Cardiovascular-disease-prediction-using-deep-leaerning-main\Saved_model\img_mdl.h5
+2025-06-14 08:40:26,195 - CardiovascularPredictionApp - INFO - Image model loaded successfully
+2025-06-14 08:40:38,629 - CardiovascularPredictionApp - INFO - TensorFlow is available and imported successfully
+2025-06-14 08:40:38,631 - CardiovascularPredictionApp - INFO - Base directory: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main
+2025-06-14 08:40:38,631 - CardiovascularPredictionApp - INFO - Tabular model path: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main\Saved_model\tb_mdl.h5
+2025-06-14 08:40:38,632 - CardiovascularPredictionApp - INFO - Image model path: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main\Saved_model\img_mdl.h5
+2025-06-14 09:07:40,203 - CardiovascularPredictionApp - INFO - TensorFlow is available and imported successfully
+2025-06-14 09:07:40,398 - CardiovascularPredictionApp - INFO - Base directory: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main
+2025-06-14 09:07:40,399 - CardiovascularPredictionApp - INFO - Tabular model path: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main\Saved_model\tb_mdl.h5
+2025-06-14 09:07:40,400 - CardiovascularPredictionApp - INFO - Image model path: C:\Cardiovascular-disease-prediction-using-deep-leaerning-main\Saved_model\img_mdl.h5
+2025-06-14 09:07:40,423 - CardiovascularPredictionApp - INFO - Loading tabular model from C:\Cardiovascular-disease-prediction-using-deep-leaerning-main\Saved_model\tb_mdl.h5
+2025-06-14 09:07:40,775 - CardiovascularPredictionApp - INFO - Tabular model loaded successfully
